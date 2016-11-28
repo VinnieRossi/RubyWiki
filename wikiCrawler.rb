@@ -62,7 +62,6 @@ while clicks < 4 do
       #Create the new depth length
       depthLength = links.length
     end
-    
   end
 end
 puts "I had to search #{links.length} links"
